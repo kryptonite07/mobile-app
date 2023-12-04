@@ -7,3 +7,4 @@ this is 6thcommit.
 this is 7thcommit.
 this is 8thcommit.
 this is 8thcommit.
+this is 8thcommit.
